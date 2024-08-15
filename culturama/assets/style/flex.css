@@ -1,0 +1,133 @@
+/* HEADER - Cabeçalho */
+
+.menu {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-wrap: wrap;
+    column-gap: 33px;
+}
+
+/* CATEGORIES - Categorias */
+
+.categorias__lista {
+    display: flex;
+    flex-direction: column;
+    row-gap: 0.5rem;
+}
+
+/* EMPHASIS - Destaques */
+
+.destaques {
+    display: flex;
+    align-items: center;
+    column-gap: 10px;
+}
+
+.destaques__barra {
+    flex-grow: 1;
+}
+
+/* NEXT EVENTS - Próximos Eventos */
+
+.eventos__lista {
+    display: flex;
+    flex-wrap: wrap;
+    column-gap: 1.5rem;
+    row-gap: 1rem;
+    justify-content: center;
+}
+
+.eventos__item {
+    flex-grow: 1;
+    max-width: 400px;
+}
+
+/* PUT IT ON THE AGENDA - Coloque na Agenda */
+
+.agenda__lista {
+    display: flex;
+    flex-wrap: wrap;
+    row-gap: 1rem;
+    column-gap: 1.5rem;
+    justify-content: center;
+}
+
+.agenda__item {
+    flex-grow: 1;
+}
+
+.agenda__atracao {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+}
+
+/* FOOTER - Rodapé */
+.rodape {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.rodape__logo {
+    align-self: end;
+}
+
+@media (min-width: 720px) {
+    /* HEADER - Cabeçalho */
+
+    .menu {
+        column-gap: 75px;
+    }
+
+    /* CATEGORIES - Categorias */
+
+    .categorias__lista {
+        flex-wrap: wrap;
+        column-gap: 1.5rem;
+        row-gap: 1rem;
+    }
+
+    /* NEXT EVENTS - Próximos Eventos */
+
+    .eventos__lista {
+        justify-content: end;
+    }
+
+    /* PUT IT ON THE AGENDA - Coloque na Agenda */
+
+    .agenda__lista {
+        justify-content: end;
+    }
+}
+
+@media (min-width: 1440px) {
+    /* HEADER - Cabeçalho */
+
+    .menu {
+        column-gap: 105px;
+        flex-wrap: nowrap;
+    }
+
+    .menu__item:nth-child(1) {
+        order: 1;
+    }
+
+    .menu__item:nth-child(2) {
+        order: 3;
+    }
+
+    .menu__item:nth-child(3) {
+        order: 4;
+    }
+
+    .menu__item:nth-child(4) {
+        order: 5;
+    }
+
+    .menu__item:nth-child(5) {
+        order: 2;
+    }
+}
