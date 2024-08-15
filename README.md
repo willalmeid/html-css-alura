@@ -1,6 +1,10 @@
 # Curso de HTML e CSS da Alura
  Este repositório reúne o material, exercícios e projetos desenvolvidos durante os cursos da Alura. Aqui você encontrará minhas soluções para os desafios propostos, códigos-fonte, anotações das aulas e recursos adicionais que complementam o aprendizado.
 
+## Tecnologias 🤖
+Esse curso abordou as seguintes tecnologias:
+- HTML e CSS
+- Git e GitHub
 
 ## Projetos 💻
 - <a href="https://willalmeid.github.io/html-css-alura/culturama/">Culturama</a>
