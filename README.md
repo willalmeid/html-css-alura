@@ -4,7 +4,5 @@
 
 ## Projetos 💻
 - <a href="https://willalmeid.github.io/html-css-alura/culturama/">Culturama</a>
-- <a href="https://willalmeid.github.io/html-css-alura/culturama/">Culturama</a>
-- <a href="https://willalmeid.github.io/html-css-alura/calmaria-spa/">Calmaria Spa</a>
 - <a href="https://willalmeid.github.io/html-css-alura/alura-newsletter/">Alura Newsletter</a>
 - <a href="https://willalmeid.github.io/html-css-alura/aluraplay/">Alura Play</a>
