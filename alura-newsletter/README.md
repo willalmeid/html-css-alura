@@ -7,7 +7,6 @@
 </p>
 
 O Projeto Alura Newsletter é uma página de login!
-Este é um projeto da <strong>Alura</strong>.
 <br>
 
 Este foi um dos projetos do Curso de HTML & CSS, projetado pela <a href="https://cursos.alura.com.br/dashboard">Alura</a>.

@@ -7,7 +7,6 @@
 </p>
 
 O Projeto AluraPlay é uma plataforma de vídeo!
-Este é um projeto da <strong>Alura</strong>.
 <br>
 
 Este foi um dos projetos do Curso de HTML & CSS, projetado pela <a href="https://cursos.alura.com.br/dashboard">Alura</a>.
