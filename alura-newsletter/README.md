@@ -1,12 +1,12 @@
 # 
 
-<h1 align="center"> Projeto AluraPlay </h1>
+<h1 align="center"> Projeto Alura Newsletter </h1>
 
 <p align="center">
    <img src="./assets/images/imagem-preview.jpg">
 </p>
 
-O Projeto AluraPlay é uma plataforma de vídeo!
+O Projeto Alura Newsletter é uma página de login!
 Este é um projeto da <strong>Alura</strong>.
 <br>
 
@@ -14,7 +14,7 @@ Este foi um dos projetos do Curso de HTML & CSS, projetado pela <a href="https:/
 
 <br>
 
-<p align="center"><a href="https://willalmeid.github.io/html-css-alura/aluraplay/">Acesse o projeto</a></p>
+<p align="center"><a href="https://willalmeid.github.io/html-css-alura/alura-newsletter/">Acesse o projeto</a></p>
 
 
 ## 🤖 Tecnologias
