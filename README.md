@@ -15,4 +15,7 @@ Esse curso abordou as seguintes tecnologias:
 - <a href="https://willalmeid.github.io/html-css-alura/alura-newsletter/">Alura Newsletter</a>
 - <a href="https://willalmeid.github.io/html-css-alura/aluraplay/">Alura Play</a>
 
+## Licença 📃
+Esse projeto está sob a licença MIT.
+
 ---
