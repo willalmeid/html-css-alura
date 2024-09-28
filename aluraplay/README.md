@@ -3,7 +3,7 @@
 <h1 align="center"> Projeto AluraPlay </h1>
 
 <p align="center">
-   <img src="./assets/images/imagem-preview.jpg">
+   <img src="./img/imagem-preview.jpg">
 </p>
 
 O Projeto AluraPlay é uma plataforma de vídeo!

@@ -3,7 +3,7 @@
 <h1 align="center"> Projeto Alura Newsletter </h1>
 
 <p align="center">
-   <img src="./assets/images/imagem-preview.jpg">
+   <img src="./image/imagem-preview.jpg">
 </p>
 
 O Projeto Alura Newsletter é uma página de login!

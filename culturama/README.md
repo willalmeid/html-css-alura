@@ -3,7 +3,7 @@
 <h1 align="center"> Projeto Culturama </h1>
 
 <p align="center">
-   <img src="./assets/images/imagem-preview.jpg">
+   <img src="./assets/img/imagem-preview.jpg">
 </p>
 
 O Projeto Culturama é uma plataforma eventos.
